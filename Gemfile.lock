@@ -1,7 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    babble (1.0.1)
+    babbler (2.0.0)
     coderay (1.1.2)
     colorize (0.8.1)
     method_source (0.9.0)
@@ -13,9 +13,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  babble
-  colorize
-  pry
+  babbler
+  colorize (= 0.8.1)
+  pry (= 0.11.2)
 
 RUBY VERSION
    ruby 2.3.1p112
