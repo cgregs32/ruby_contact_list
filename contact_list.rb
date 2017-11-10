@@ -1,3 +1,4 @@
+
 def program
 
   contact_list = [{name: "chris", email: "ariel@gmail.com", phone: "5567892342"}, {name: "ariel", email: "chris@gmail.com", phone: "9999999999"}]
